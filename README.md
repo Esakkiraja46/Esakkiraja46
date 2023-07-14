@@ -1,6 +1,6 @@
 ![MasterHead](https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif)
 <h1 align="center">Hi 👋, I'm Esakki Raja Ponnappan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alr="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **Mern Stack Specialization**
 
